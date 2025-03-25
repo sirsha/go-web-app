@@ -42,7 +42,7 @@ jobs:
     - name: Run golangci-lint
       uses: golangci/golangci-lint-action@v6
       with:
-        version: v1.22.5
+        version: v1.28.3
         args: --timeout=10m
   
   push:
