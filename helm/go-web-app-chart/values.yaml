@@ -8,7 +8,7 @@ image:
   repository: sirsha/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "14069400678"
+  tag: "14070754642"
 
 ingress:
   enabled: false
