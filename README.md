@@ -45,11 +45,11 @@ The server will start on port 8080. You can access it by navigating to `http://l
 ### How pipeline will look after deployment:
 - <b>CI pipeline to build, unit test, static code analysis and push</b>
 
-![image](https://github.com/sirsha/wanderlust/blob/devops/images/Screenshot%202025-07-25%20205322.png)
+![image]()
 
 - <b>ArgoCD application for deployment on EKS</b>
 
-![image](https://github.com/sirsha/wanderlust/blob/devops/images/diagram-export-7-25-2025-8_58_10-PM.png)
+![image]()
 
 # Steps to implement the Project 
 ## Creating  Dockerfile (Multi-stage build) and containerization
