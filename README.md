@@ -71,7 +71,7 @@ picture
   docker push <your-docker-username>/go-web-app
   ```
 
-## Ingress Controller configuration
+## INGRESS CONTROLLER CONFIGURATION
 In this project, we’re using the **NGINX Ingress Controller**, a Go-based program developed by LB. It continuously monitors Kubernetes ingress resources and provisions load balancers according to the specified ingress configurations.
 
 ## CONTINIOUS INTEGRATION
