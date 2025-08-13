@@ -4,19 +4,22 @@ The main goal of this project is to implement DevOps practices in the Go web app
 
 ![Website](static/images/golang-website.png)
 
-DevOps practices include the following:
+## DevOps practices include the following:
 
-Creating Dockerfile (Multi-stage build)
-Containerization
-Continuous Integration (CI)
-Continuous Deployment (CD)
+- Creating Dockerfile (Multi-stage build)
+- Containerization
+- Continuous Integration (CI)
+- Continuous Deployment (CD)
 
 ### In this demo, we will see how to deploy an Go web application on EKS cluster, utilizing GitHub Actions for continuous integration, ArgoCD for continuous deployment.
 #
+
+
 ### <mark>Project Deployment Flow:</mark>
 
-<img src="https://github.com/sirsha/go-web-app/blob/main/Golang.drawio.png" />
 
+
+<img src="https://github.com/sirsha/go-web-app/blob/main/Golang.drawio.png" />
 
 
 #
